@@ -1,0 +1,12 @@
+{
+  "name": "heavy-oil-well-driller",
+  "version": "0.4.0",
+  "title": "Oil Well Drilling Vehicle",
+  "author": "artel & Codex",
+  "factorio_version": "2.0",
+  "description": "Oil Well Drilling Vehicle: railway-tier heavy machinery. 100% vibe-coded with OpenAI Codex; 3D models generated with Tripo AI.",
+  "dependencies": [
+    "base >= 2.0.0",
+    "? heavy-construction-machinery-plant >= 0.1.0"
+  ]
+}

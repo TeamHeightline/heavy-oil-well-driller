@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 2026-10-18
+  Balancing:
+    - Unlocked with Railway alongside the locomotive; updated steel, engine, gear, circuit and pipe costs.
+  Changes:
+    - Крафт и открытие перенесены на «Железную дорогу». Рабочий режим теперь мгновенно и полностью блокирует движение и поворот; походное управление возвращается после выключения режима или завершения скважины.
+  Documentation:
+    - Added Russian/English README, usage instructions and explicit 100% Codex vibe-coding / Tripo AI model credits.
